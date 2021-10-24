@@ -2,7 +2,6 @@
     <latest>0.6.4</latest>
     <latest_debug>0.6.4</latest_debug>
 	<changes>
-		<chg>Improved auto update check</chg>
-		<chg>Some minor bugfixes</chg>
-	</changes>
+		<chg>Fixed bug for manual tagging when tag was renamed</chg>
+       </changes>
 </version>
