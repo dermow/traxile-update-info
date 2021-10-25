@@ -1,7 +1,10 @@
 <version>
-    <latest>0.6.4</latest>
+    <latest>0.6.5</latest>
     <latest_debug>0.6.4</latest_debug>
-	<changes>
-		<chg>Fixed bug for manual tagging when tag was renamed</chg>
-       </changes>
+    <changes>
+	<chg>Fixed a bug which causes some activities beeing not displayed in list
+	<chg>Fixed a bug which causes duplicate activity entries in database
+	<chg>Fixed a bug which causes the application to crash while updating the UI
+	<chg>Fixed a bug where applying a UI theme overwrites tag styles
+     </changes>
 </version>
