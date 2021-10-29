@@ -1,6 +1,6 @@
 <version>
     <latest>0.6.5</latest>
-    <latest_debug>0.7.0</latest_debug>
+    <latest_debug>0.7.1</latest_debug>
     <latest_beta>0.6.5</latest_beta>
     <changes>
 	<chg>Fixed a bug which causes values in Dashboard-Charts were not shown</chg>
@@ -19,5 +19,6 @@
 	<chg>New trackable activity: CAMPAIGN</chg>
 	<chg>Hideout time is now tracked</chg>
 	<chg>New statistics: CampaignFinished</chg>
+        <chg>New action in config: Reload logfile (stats only)</chg>
      </changes>
 </version>
