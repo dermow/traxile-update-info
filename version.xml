@@ -3,9 +3,21 @@
     <latest_debug>0.7.0</latest_debug>
     <latest_beta>0.6.5</latest_beta>
     <changes>
-	<chg>Fixed a bug which causes some activities beeing not displayed in list</chg>
-	<chg>Fixed a bug which causes duplicate activity entries in database</chg>
-	<chg>Fixed a bug which causes the application to crash while updating the UI</chg>
-	<chg>Fixed a bug where applying a UI theme overwrites tag styles</chg>
+	<chg>Fixed a bug which causes values in Dashboard-Charts were not shown</chg>
+	<chg>Displaying percentage values in pie chart</chg>
+	<chg>Remember setting 'hide unknown' in lab dashboard</chg>
+	<chg>Fixed mapping for Expedition encounters  (Gwennen)</chg>
+	<chg>Show values with < 5% in pie chart as "other"</chg>
+	<chg>Added table for activity overview </chg>
+	<chg>New trackable activity: SIRUS_FIGHT</chg>
+	<chg>New trackable activity: ATZIRI</chg>
+	<chg>New trackable activity: UBER_ATZIRI</chg>
+	<chg>New trackable activity: ELDER_FIGHT</chg>
+	<chg>New trackable activity: SHAPER_FIGHT</chg>
+	<chg>New trackable activity: MAVEN_INVITATION</chg>
+	<chg>New trackable activity: MAVEN_FIGHT</chg>
+	<chg>New trackable activity: CAMPAIGN</chg>
+	<chg>Hideout time is now tracked</chg>
+	<chg>New statistics: CampaignFinished</chg>
      </changes>
 </version>
