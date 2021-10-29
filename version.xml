@@ -7,7 +7,7 @@
 	<chg>Displaying percentage values in pie chart</chg>
 	<chg>Remember setting 'hide unknown' in lab dashboard</chg>
 	<chg>Fixed mapping for Expedition encounters  (Gwennen)</chg>
-	<chg>Show values with < 5% in pie chart as "other"</chg>
+	<chg>Show values with < 5 percent in pie chart as other</chg>
 	<chg>Added table for activity overview </chg>
 	<chg>New trackable activity: SIRUS_FIGHT</chg>
 	<chg>New trackable activity: ATZIRI</chg>
