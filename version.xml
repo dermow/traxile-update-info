@@ -3,6 +3,7 @@
     <latest_debug>0.7.3</latest_debug>
     <latest_beta>0.6.5</latest_beta>
     <changes>
-	    <chg>Bugfix: Statistics for maps calculated wrong after reload logfile</chg>
+	    <chg>Some minor bugfixes</chg>
+	    <chg>Corrected wrong informatino in lab dashboard - area levels are trackable since 3.15, not 3.12</chg>
     </changes>
 </version>
