@@ -1,9 +1,9 @@
 <version>
-    <latest>0.7.3</latest>
+    <latest>0.7.4</latest>
     <latest_debug>0.7.4</latest_debug>
     <latest_beta>0.6.5</latest_beta>
     <changes>
-	    <chg>Some minor bugfixes</chg>
-	    <chg>Corrected wrong information in lab dashboard - area levels are trackable since 3.15, not 3.12</chg>
+	<chg>Improvements to UI performance</chg>
+        <chg>Bugfix: When deleting Activities from filtered List, wrong Item was deleted in some cases</chg>
     </changes>
 </version>
