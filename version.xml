@@ -3,7 +3,6 @@
     <latest_debug>0.7.5</latest_debug>
     <latest_beta>0.6.5</latest_beta>
     <changes>
-	<chg>Improvements to UI performance</chg>
-        <chg>Bugfix: When deleting Activities from filtered List, wrong Item was deleted in some cases</chg>
+	<chg>implemented self-healing for corrupted stats.cache</chg>
     </changes>
 </version>
