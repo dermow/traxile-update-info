@@ -1,0 +1,10 @@
+<version>
+    <latest>0.7.5</latest>
+    <latest_debug>0.7.5</latest_debug>
+    <latest_beta>0.6.5</latest_beta>
+    <changes>
+      <0.7.5>
+	     <chg>implemented self-healing for corrupted stats.cache</chg>
+      </0.7.5>
+    </changes>
+</version>
