@@ -1,8 +1,20 @@
 <version>
-    <latest>0.8.5</latest>
+    <latest>0.8.0</latest>
     <latest_debug>0.7.5</latest_debug>
     <latest_beta>0.6.5</latest_beta>
     <changes>
-       <chg version="0.7.5">implemented self-healing for corrupted stats.cache</chg>
-   </changes>
+        <!-- Changelog 0.7.5 -->
+        <chg version="0.7.5">implemented self-healing for corrupted stats.cache</chg>
+        <!-- Changelog 0.8.0 -->
+        <chg version="0.8.0">New trackable activity: CATARINA_FIGHT</chg>
+        <chg version="0.8.0">New trackable activity: SAFEHOUSE</chg>
+        <chg version="0.8.0">New trackable activity: VAAL_SIDEAREA</chg>
+        <chg version="0.8.0">New trackable activity: ABYSSAL_DEPTHS</chg>
+        <chg version="0.8.0">New trackable activity: LABTRIAL</chg>
+        <chg version="0.8.0">New trackable activity: LOGBOOK</chg>
+        <chg version="0.8.0">New auto tag: abyss-depths - Abyssal Dephts on Map</chg>
+        <chg version="0.8.0">New auto tag: lab-trial - Lab Trial found in Map</chg>
+        <chg version="0.8.0">New auto tag: vaal-area - Vaal Ara in Map</chg>
+        <chg version="0.8.0">New auto tag: exp-side-area - Side Area in Logbook</chg>
+  </changes>
 </version>
