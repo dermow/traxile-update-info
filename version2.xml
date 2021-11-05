@@ -9,10 +9,10 @@
         <chg version="0.8.0">New trackable activity: ABYSSAL_DEPTHS</chg>
         <chg version="0.8.0">New trackable activity: LABTRIAL</chg>
         <chg version="0.8.0">New trackable activity: LOGBOOK</chg>
-        <chg version="0.8.0">New auto tag: abyss-depths - Abyssal Dephts on Map</chg>
-        <chg version="0.8.0">New auto tag: lab-trial - Lab Trial found in Map</chg>
-        <chg version="0.8.0">New auto tag: vaal-area - Vaal Ara in Map</chg>
-        <chg version="0.8.0">New auto tag: exp-side-area - Side Area in Logbook</chg>
+        <chg version="0.8.0">New auto tag: abyss-depths</chg>
+        <chg version="0.8.0">New auto tag: lab-trial</chg>
+        <chg version="0.8.0">New auto tag: vaal-area</chg>
+        <chg version="0.8.0">New auto tag: exp-side-area</chg>
     </changes>
    <changelog> <!-- used since 0.8.0 -->
        <!-- Changelog 0.8.0 -->
@@ -22,9 +22,9 @@
         <chg version="0.8.0">New trackable activity: ABYSSAL_DEPTHS</chg>
         <chg version="0.8.0">New trackable activity: LABTRIAL</chg>
         <chg version="0.8.0">New trackable activity: LOGBOOK</chg>
-        <chg version="0.8.0">New auto tag: abyss-depths - Abyssal Dephts on Map</chg>
-        <chg version="0.8.0">New auto tag: lab-trial - Lab Trial found in Map</chg>
-        <chg version="0.8.0">New auto tag: vaal-area - Vaal Ara in Map</chg>
-        <chg version="0.8.0">New auto tag: exp-side-area - Side Area in Logbook</chg>
+        <chg version="0.8.0">New auto tag: abyss-depths</chg>
+        <chg version="0.8.0">New auto tag: lab-trial</chg>
+        <chg version="0.8.0">New auto tag: vaal-area</chg>
+        <chg version="0.8.0">New auto tag: exp-side-area</chg>
   </changelog>
 </version>
