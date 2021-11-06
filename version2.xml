@@ -13,6 +13,7 @@
         <chg version="0.8.0">New auto tag: lab-trial</chg>
         <chg version="0.8.0">New auto tag: vaal-area</chg>
         <chg version="0.8.0">New auto tag: exp-side-area</chg>
+        <chg version="0.8.0">Bugfix: ElderKilled was counted twice in some cases</chg>
     </changes>
    <changelog> <!-- used since 0.8.0 -->
        <!-- Changelog 0.8.0 -->
@@ -26,5 +27,6 @@
         <chg version="0.8.0">New auto tag: lab-trial</chg>
         <chg version="0.8.0">New auto tag: vaal-area</chg>
         <chg version="0.8.0">New auto tag: exp-side-area</chg>
+        <chg version="0.8.0">Bugfix: ElderKilled was counted twice in some cases</chg>
   </changelog>
 </version>
