@@ -1,5 +1,5 @@
 <version>
-    <latest>0.7.5</latest>
+    <latest>0.8.0</latest>
     <latest_debug>0.8.0</latest_debug>
     <latest_beta>0.6.5</latest_beta>
     <changes> <!-- compatible for older versions -->
