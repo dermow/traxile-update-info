@@ -1,20 +1,11 @@
 <version>
     <latest>0.8.0</latest>
-    <latest_debug>0.8.0</latest_debug>
+    <latest_debug>0.8.1</latest_debug>
     <latest_beta>0.6.5</latest_beta>
     <changes> <!-- compatible for older versions -->
-        <chg version="0.8.0">New trackable activity: CATARINA_FIGHT</chg>
-        <chg version="0.8.0">New trackable activity: SAFEHOUSE</chg>
-        <chg version="0.8.0">New trackable activity: VAAL_SIDEAREA</chg>
-        <chg version="0.8.0">New trackable activity: ABYSSAL_DEPTHS</chg>
-        <chg version="0.8.0">New trackable activity: LABTRIAL</chg>
-        <chg version="0.8.0">New trackable activity: LOGBOOK</chg>
-        <chg version="0.8.0">New auto tag: abyss-depths</chg>
-        <chg version="0.8.0">New auto tag: lab-trial</chg>
-        <chg version="0.8.0">New auto tag: vaal-area</chg>
-        <chg version="0.8.0">New auto tag: exp-side-area</chg>
-        <chg version="0.8.0">Bugfix: ElderKilled was counted twice in some cases</chg>
-    </changes>
+        <chg version="0.8.1">Removed tracking of campaign while doing maps, labs, etc.</chg>
+        <chg version="0.8.1">Support for maps with tiers higher 16</chg>
+       </changes>
    <changelog> <!-- used since 0.8.0 -->
        <!-- Changelog 0.8.0 -->
         <chg version="0.8.0">New trackable activity: CATARINA_FIGHT</chg>
@@ -28,5 +19,7 @@
         <chg version="0.8.0">New auto tag: vaal-area</chg>
         <chg version="0.8.0">New auto tag: exp-side-area</chg>
         <chg version="0.8.0">Bugfix: ElderKilled was counted twice in some cases</chg>
+        <chg version="0.8.1">Removed tracking of campaign while doing maps, labs, etc.</chg>
+        <chg version="0.8.1">Support for maps with tiers higher 16</chg>
   </changelog>
 </version>
