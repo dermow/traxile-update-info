@@ -1,0 +1,20 @@
+<version>
+    <latest>0.9.0</latest>
+  <changelog> <!-- used since 0.8.0 -->
+       <!-- Changelog 0.8.0 -->
+        <chg version="0.8.0">New trackable activity: CATARINA_FIGHT</chg>
+        <chg version="0.8.0">New trackable activity: SAFEHOUSE</chg>
+        <chg version="0.8.0">New trackable activity: VAAL_SIDEAREA</chg>
+        <chg version="0.8.0">New trackable activity: ABYSSAL_DEPTHS</chg>
+        <chg version="0.8.0">New trackable activity: LABTRIAL</chg>
+        <chg version="0.8.0">New trackable activity: LOGBOOK</chg>
+        <chg version="0.8.0">New auto tag: abyss-depths</chg>
+        <chg version="0.8.0">New auto tag: lab-trial</chg>
+        <chg version="0.8.0">New auto tag: vaal-area</chg>
+        <chg version="0.8.0">New auto tag: exp-side-area</chg>
+        <chg version="0.8.0">Bugfix: ElderKilled was counted twice in some cases</chg>
+        <chg version="0.9.0">Statistics rework: added time filter feature and predefined filters for leagues</chg>
+        <chg version="0.9.0">Statistics rework: merged Dashboards and statistics tab</chg>
+        <chg version="0.9.0">New feature: Ingame overlay with stopwatch</chg>
+  </changelog>
+</version>
