@@ -1,5 +1,5 @@
 <version>
-  <latest>0.8.102</latest>
+  <latest>0.8.101</latest>
   <changelog> <!-- used since 0.8.0 -->
        <!-- Changelog 0.8.0 -->
         <chg version="0.8.0">New trackable activity: CATARINA_FIGHT</chg>
