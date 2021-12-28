@@ -1,7 +1,7 @@
 <version>
-  <latest>0.9.0</latest>
+  <latest>0.9.1</latest>
   <changelog> <!-- used since 0.8.0 -->
-       <!-- Changelog 0.8.0 -->
+        <!-- Changelog 0.8.0 -->
         <chg version="0.8.0">New trackable activity: CATARINA_FIGHT</chg>
         <chg version="0.8.0">New trackable activity: SAFEHOUSE</chg>
         <chg version="0.8.0">New trackable activity: VAAL_SIDEAREA</chg>
@@ -13,10 +13,15 @@
         <chg version="0.8.0">New auto tag: vaal-area</chg>
         <chg version="0.8.0">New auto tag: exp-side-area</chg>
         <chg version="0.8.0">Bugfix: ElderKilled was counted twice in some cases</chg>
+    
+        <!-- Changelog 0.9.0 -->
         <chg version="0.9.0">Statistics rework: added time filter feature and predefined filters for leagues</chg>
         <chg version="0.9.0">Statistics rework: merged Dashboards and statistics tab</chg>
         <chg version="0.9.0">New feature: Ingame overlay with stopwatch</chg>
         <chg version="0.9.0">Bugfix: some timestamps were not parsed correctly</chg>
-
-  </changelog>
+    
+        <!-- Changelog 0.9.1 -->
+        <chg version="0.9.1">Some minor UI optimizations</chg>
+        <chg version="0.9.1">Enforcing timestamp parsing using Gregorian calendar</chg>
+ </changelog>
 </version>
