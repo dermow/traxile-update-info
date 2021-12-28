@@ -18,6 +18,6 @@
         <chg version="0.9.0">New feature: Ingame overlay with stopwatch</chg>
         <chg version="0.9.0">Bugfix: some timestamps were not parsed correctly</chg>
         <chg version="0.9.1">Some minor UI optimizations</chg>
-        <chg version="0.9.1">Fixed a bug with timestamp parsing with other os calendars then 'Gregorian'</chg>
+        <chg version="0.9.1">Enforcing timestamp parsing using Gregorian calendar</chg>
  </changelog>
 </version>
