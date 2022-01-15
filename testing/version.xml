@@ -30,5 +30,6 @@
         <chg version="0.9.2">Time caps are now definable for all activity types</chg>
         <chg version="0.9.2">Time caps are now applied to activity history too</chg>
         <chg version="0.9.2">Some minor bugfixes</chg>
+        <chg version="0.9.2">Leauge info updated with new release / end dates</chg>
  </changelog>
 </version>
