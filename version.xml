@@ -1,5 +1,5 @@
 <version>
-  <latest>0.9.2</latest>
+  <latest>0.9.3</latest>
   <changelog> <!-- used since 0.8.0 -->
         <!-- Changelog 0.8.0 -->
         <chg version="0.8.0">New trackable activity: CATARINA_FIGHT</chg>
@@ -35,5 +35,9 @@
         <chg version="0.9.2">CSV export format optimized</chg>
         <chg version="0.9.2">Eventlog Tab removed</chg>
         <chg version="0.9.2">Fixed a bug where the "All stats chart" was not updated on time change of time filter</chg>
+
+        <!-- Changelog 0.9.3 -->
+        <chg version="0.9.3">Bugfix: restore of backups was not working</chg>
+
  </changelog>
 </version>
