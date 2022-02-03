@@ -38,6 +38,9 @@
 
         <!-- Changelog 0.9.3 -->
         <chg version="0.9.3">Bugfix: restore of backups was not working</chg>
+    
+        <!-- Changelog 0.9.4 -->
+        <chg version="0.9.4">Bugfix: fixed very long loading times</chg>
 
  </changelog>
 </version>
