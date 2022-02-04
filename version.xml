@@ -1,5 +1,5 @@
 <version>
-  <latest>0.9.3</latest>
+  <latest>0.9.5</latest>
   <changelog> <!-- used since 0.8.0 -->
         <!-- Changelog 0.8.0 -->
         <chg version="0.8.0">New trackable activity: CATARINA_FIGHT</chg>
@@ -38,6 +38,14 @@
 
         <!-- Changelog 0.9.3 -->
         <chg version="0.9.3">Bugfix: restore of backups was not working</chg>
+        
+        <!-- Changelog 0.9.4 -->
+        <chg version="0.9.4">Several minor bugfixes</chg>
+  
+        <!-- Changelog 0.9.5 -->
+        <chg version="0.9.5">Added label for total playtime in dashboard</chg>
+        <chg version="0.9.5">Bugfix: fixed very long loading times</chg>
+        <chg version="0.9.5">Bugfix: Zana-Maps were shown with duration of 00:00:00 after first start</chg>
 
  </changelog>
 </version>
