@@ -46,6 +46,10 @@
         <chg version="0.9.5">Added label for total playtime in dashboard</chg>
         <chg version="0.9.5">Bugfix: fixed very long loading times</chg>
         <chg version="0.9.5">Bugfix: Zana-Maps were shown with duration of 00:00:00 after first start</chg>
+    
+        <!-- Changelog 0.9.6 -->
+        <chg version="0.9.6">Fixed window layout</chg>
+    
 
  </changelog>
 </version>
