@@ -16,7 +16,7 @@
         <!-- Changelog 0.9.6 -->
         <chg version="0.9.6">Fixed window layout</chg>
     
-        <!-- Changelog 0.9.7
+        <!-- Changelog 0.9.7 -->
         <chg version="0.9.7">Added 'finish' button to overaly</chg>
         <chg version="0.9.7">Fixed a bug where labs were not tracked correctly</chg>
         <chg version="0.9.7">Labs cannot be finished automatically on izaro-death anymore because the kill dialouges were removed.</chg>
