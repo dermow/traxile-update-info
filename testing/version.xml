@@ -1,5 +1,5 @@
 <version>
-  <latest>0.9.7</latest>
+  <latest>0.10.0</latest>
   <changelog> <!-- used since 0.8.0 -->
         
         <!-- Changelog 0.9.3 -->
@@ -20,6 +20,8 @@
         <chg version="0.9.7">Added 'finish' button to overaly</chg>
         <chg version="0.9.7">Fixed a bug where labs were not tracked correctly</chg>
         <chg version="0.9.7">Labs cannot be finished automatically on izaro-death anymore because the kill dialouges were removed.</chg>
+    
+        <chg version="0.10.0">Pre-Release. Full changelog with next stable release.</chg>
 
  </changelog>
 </version>
