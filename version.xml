@@ -2,6 +2,10 @@
   <latest>0.9.7</latest>
   <changelog> <!-- used since 0.8.0 -->
         
+      <version>
+  <latest>0.10.1</latest>
+  <changelog> <!-- used since 0.8.0 -->
+        
         <!-- Changelog 0.9.3 -->
         <chg version="0.9.3">Bugfix: restore of backups was not working</chg>
         
@@ -20,6 +24,19 @@
         <chg version="0.9.7">Added 'finish' button to overaly</chg>
         <chg version="0.9.7">Fixed a bug where labs were not tracked correctly</chg>
         <chg version="0.9.7">Labs cannot be finished automatically on izaro-death anymore because the kill dialouges were removed.</chg>
+    
+        <chg version="0.10.0">Pre-Release. Full changelog with next stable release.</chg>
+            
+        <chg version="0.10.1">Labbie integration added: track lab enchants</chg>
+        <chg version="0.10.1">Lab profit tracking added</chg>
+        <chg version="0.10.1">Enchant info page added</chg>
+        <chg version="0.10.1">Added statistics for new eldritch bosses</chg>
+        <chg version="0.10.1">Lab is automatically paused if you try to open a locked chest in treasure room</chg>
+        <chg version="0.10.1">Timeless Domain is now being tracked</chg>
+        <chg version="0.10.1">Auto-Tag 'harvest' added</chg>
+
+ </changelog>
+</version>
 
  </changelog>
 </version>
