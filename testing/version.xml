@@ -22,6 +22,14 @@
         <chg version="0.9.7">Labs cannot be finished automatically on izaro-death anymore because the kill dialouges were removed.</chg>
     
         <chg version="0.10.0">Pre-Release. Full changelog with next stable release.</chg>
+            
+        <chg version="0.10.1">Labbie integration added: track lab enchants</chg>
+        <chg version="0.10.1">Lab profit tracking added</chg>
+        <chg version="0.10.1">Encahnt info page added</chg>
+        <chg version="0.10.1">Added statistics for new eldrich bosses</chg>
+        <chg version="0.10.1">Lab is automatically paused if you try to open a locked chest in treasure room</chg>
+        <chg version="0.10.1">Timeless Domain is now being tracked</chg>
+        <chg version="0.10.1">Auto-Tag 'harvest' added</chg>
 
  </changelog>
 </version>
