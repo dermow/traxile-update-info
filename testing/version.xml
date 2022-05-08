@@ -1,5 +1,5 @@
 <version>
-  <latest>1.0.0</latest>
+  <latest>1.0.1</latest>
   <changelog> <!-- used since 0.8.0 -->
         
         <!-- Changelog 0.9.3 -->
@@ -32,6 +32,8 @@
         <chg version="0.10.1">Auto-Tag 'harvest' added</chg>
     
         <chg version="0.10.2">Kill counters for blue eldritch bosses fixed</chg>
+    
+        <chg version="1.0.1">Pre-Release. Full changelog with next stable release.</chg>
 
  </changelog>
 </version>
