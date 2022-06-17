@@ -34,6 +34,13 @@
         <chg version="0.10.2">Kill counters for blue eldritch bosses fixed</chg>
     
         <chg version="1.0.1">Pre-Release. Full changelog with next stable release.</chg>
+    
+        <chg version="1.0.3">Implemented advanced global filtering options</chg>
+        <chg version="1.0.3">Multiselect items in activity history</chg>
+        <chg version="1.0.3">Summary feature for selected history items</chg>
+        <chg version="1.0.3">Fixed auto save feature in lab profit tab</chg>
+        <chg version="1.0.3">Stopwarch overlay: define up to 3 tags to display status in overlay</chg>
+    
 
  </changelog>
 </version>
