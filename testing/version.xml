@@ -1,28 +1,7 @@
 <version>
-  <latest>1.0.3</latest>
+  <latest>1.0.4</latest>
   <changelog> <!-- used since 0.8.0 -->
-        
-        <!-- Changelog 0.9.3 -->
-        <chg version="0.9.3">Bugfix: restore of backups was not working</chg>
-        
-        <!-- Changelog 0.9.4 -->
-        <chg version="0.9.4">Several minor bugfixes</chg>
-  
-        <!-- Changelog 0.9.5 -->
-        <chg version="0.9.5">Added label for total playtime in dashboard</chg>
-        <chg version="0.9.5">Bugfix: fixed very long loading times</chg>
-        <chg version="0.9.5">Bugfix: Zana-Maps were shown with duration of 00:00:00 after first start</chg>
-    
-        <!-- Changelog 0.9.6 -->
-        <chg version="0.9.6">Fixed window layout</chg>
-    
-        <!-- Changelog 0.9.7 -->
-        <chg version="0.9.7">Added 'finish' button to overaly</chg>
-        <chg version="0.9.7">Fixed a bug where labs were not tracked correctly</chg>
-        <chg version="0.9.7">Labs cannot be finished automatically on izaro-death anymore because the kill dialouges were removed.</chg>
-    
         <chg version="0.10.0">Pre-Release. Full changelog with next stable release.</chg>
-            
         <chg version="0.10.1">Labbie integration added: track lab enchants</chg>
         <chg version="0.10.1">Lab profit tracking added</chg>
         <chg version="0.10.1">Enchant info page added</chg>
@@ -30,17 +9,13 @@
         <chg version="0.10.1">Lab is automatically paused if you try to open a locked chest in treasure room</chg>
         <chg version="0.10.1">Timeless Domain is now being tracked</chg>
         <chg version="0.10.1">Auto-Tag 'harvest' added</chg>
-    
         <chg version="0.10.2">Kill counters for blue eldritch bosses fixed</chg>
-    
         <chg version="1.0.1">Pre-Release. Full changelog with next stable release.</chg>
-    
-        <chg version="1.0.3">Implemented advanced global filtering options</chg>
-        <chg version="1.0.3">Multiselect items in activity history</chg>
-        <chg version="1.0.3">Summary feature for selected history items</chg>
-        <chg version="1.0.3">Fixed auto save feature in lab profit tab</chg>
-        <chg version="1.0.3">Stopwarch overlay: define up to 3 tags to display status in overlay</chg>
-    
-
+        <chg version="1.0.4">Implemented advanced global filtering options</chg>
+        <chg version="1.0.4">Multiselect items in activity history</chg>
+        <chg version="1.0.4">Summary feature for selected history items</chg>
+        <chg version="1.0.4">Fixed auto save feature in lab profit tab</chg>
+        <chg version="1.0.4">Fixed duplicates in lab history</chg>
+        <chg version="1.0.4">Stopwarch overlay: define up to 3 tags to display status in overlay</chg>
  </changelog>
 </version>
