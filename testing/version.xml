@@ -1,5 +1,5 @@
 <version>
-  <latest>1.0.4</latest>
+  <latest>1.0.5</latest>
   <changelog> <!-- used since 0.8.0 -->
         <chg version="0.10.0">Pre-Release. Full changelog with next stable release.</chg>
         <chg version="0.10.1">Labbie integration added: track lab enchants</chg>
