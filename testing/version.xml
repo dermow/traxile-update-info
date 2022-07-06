@@ -17,5 +17,8 @@
         <chg version="1.0.4">Fixed auto save feature in lab profit tab</chg>
         <chg version="1.0.4">Fixed duplicates in lab history</chg>
         <chg version="1.0.4">Stopwarch overlay: define up to 3 tags to display status in overlay</chg>
+        <chg version="1.0.5">More details shown in summary windows</chg>
+        <chg version="1.0.5">Improved UI performance by using background workers</chg>
+        <chg version="1.0.5">New setting 'minimum activity time' to filter out ultra short activities</chg>
  </changelog>
 </version>
