@@ -1,5 +1,5 @@
 <version>
-  <latest>1.0.5</latest>
+  <latest>1.0.6</latest>
   <changelog> <!-- used since 0.8.0 -->
         <chg version="0.10.0">Pre-Release. Full changelog with next stable release.</chg>
         <chg version="0.10.1">Labbie integration added: track lab enchants</chg>
@@ -20,5 +20,6 @@
         <chg version="1.0.5">More details shown in summary windows</chg>
         <chg version="1.0.5">Improved UI performance by using background workers</chg>
         <chg version="1.0.5">New setting 'minimum activity time' to filter out ultra short activities</chg>
+        <chg version="1.0.6">Added new time filter definition for new league: 3.19 - Lake of Kalandra</chg>
  </changelog>
 </version>
