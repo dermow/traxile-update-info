@@ -1,5 +1,5 @@
 <version>
-  <latest>1.0.7</latest>
+  <latest>1.0.8</latest>
   <changelog> <!-- used since 0.8.0 -->
         <chg version="0.10.0">Pre-Release. Full changelog with next stable release.</chg>
         <chg version="0.10.1">Labbie integration added: track lab enchants</chg>
@@ -22,5 +22,7 @@
         <chg version="1.0.5">New setting 'minimum activity time' to filter out ultra short activities</chg>
         <chg version="1.0.6">Added new time filter definition for new league: 3.19 - Lake of Kalandra</chg>
         <chg version="1.0.7">Added The Lake of Kalandra as activity type.</chg>
+        <chg version="1.0.8">HOTFIX: lab enchants not parsed correctly from labbie</chg>
+        <chg version="1.0.8">FIX: invalid application icon displayed in some cases</chg>  
  </changelog>
 </version>
